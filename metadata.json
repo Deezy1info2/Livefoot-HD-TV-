@@ -1,0 +1,6 @@
+{
+  "name": "Live foot HD",
+  "description": "Stream football matches and live streams with WebView match card selection and native high-performance ExoPlayer playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
